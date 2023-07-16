@@ -1,5 +1,7 @@
 @charset "utf-8"
-#{}
+#{
+
+}
 *{
     margin: 0px;
     padding: 0px;
@@ -45,7 +47,7 @@ header{
 }
 header > h1{
     color: white;
-    font-family:var(--fonte-destaque);
+    font-family: var(--fonte-destaque);
     font-size: 3em;
     margin-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.322);
@@ -102,7 +104,7 @@ main{
 
 main  h1{
     color: var(--cor5);
-    font-family: var(--font-android);
+    font-family:var(--font-android);
 }
 
 
